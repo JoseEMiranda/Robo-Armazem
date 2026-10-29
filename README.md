@@ -1,10 +1,10 @@
-# Robô de Armazém com Aprendizado por Reforço
+# Robô de Armazém
 
 Projeto da disciplina GBC063, em que um agente aprende por reforço a operar um robô de armazém em um ambiente customizado.
 
 ## Integrantes
 
-José Eduardo Miranda
+José Eduardo Miranda de Oliveira      
 Mateus Costa Felix
 
 ## Ideia
