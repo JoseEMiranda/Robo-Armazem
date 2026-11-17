@@ -1,0 +1,7 @@
+# Dependências do projeto.
+# Para uma instalação leve do PyTorch (só CPU), instale-o antes com:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch
+gymnasium
+numpy
+matplotlib

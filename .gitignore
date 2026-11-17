@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Saídas de treino na raiz (as cópias finais ficam em modelos/ e resultados/)
+/dqn_robo.pt
+/dqn_robo_best.pt
+/curva_treino.png
+/retornos_treino.npy
+
+# Editor
+.vscode/
+.idea/
